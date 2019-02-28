@@ -23,3 +23,6 @@ https://www.inflearn.com/course/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%E
 - 함수를 "값"으로 다룰 수 있다는 말
 - 즉, 함수를 변수에 담을 수 있고, 인자로 넘겨질 수 있고, 다른 함수가 실행할 수 있음.
 
+
+### Shortcut
+- Cmd + Shift + r : chrome refresh
